@@ -1,7 +1,7 @@
 # RhythmWear: Wearable Web-Audio Interface
 
 
-RhythmWear is a full-stack, real-time wearable music interface. It translates physical hand gestures into zero-latency audio playback by streaming flex sensor data from an ESP32 microcontroller over WebSockets to a custom browser-based audio engine.
+RhythmWear is a full-stack, real-time wearable music interface. It translates physical hand gestures into audio playback by streaming flex sensor data from an ESP32 microcontroller over WebSockets to a custom browser-based audio engine.
 
 [![RhythmWear Hardware Demo](https://github.com/user-attachments/assets/ef3241e9-ee29-4498-8256-929b6aa91f64)](https://youtube.com/shorts/3LRIszfKmoY)
 
